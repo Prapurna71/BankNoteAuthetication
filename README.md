@@ -1,1 +1,1 @@
-# BankNoteAuthetication
+# BankNoteAuthentication
